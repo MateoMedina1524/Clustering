@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-
-    https://colab.research.google.com/notebooks/intro.ipynb
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
